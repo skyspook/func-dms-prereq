@@ -1,2 +1,2 @@
 # func-dms-prereq
-Function that processes user groups from gsheets and active directory/openldap/freeipa
+Function that processes user groups from gsheets and active directory for DMS
